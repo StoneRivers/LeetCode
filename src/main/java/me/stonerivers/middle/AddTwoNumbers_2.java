@@ -4,7 +4,7 @@ package me.stonerivers.middle;
  * 不要想着用int或者long作为转换媒介,因为会超过其大小限制
  * Created by ZhangYuanan on 2018/5/1.
  */
-public class AddTwoNumbers {
+public class AddTwoNumbers_2 {
 
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 
