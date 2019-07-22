@@ -1,4 +1,4 @@
-package me.stonerivers.easy;
+package me.stonerivers.leetcode.easy;
 
 import java.util.Arrays;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package me.stonerivers.middle;
+package me.stonerivers.leetcode.middle;
 
 /**
  * 不要想着用int或者long作为转换媒介,因为会超过其大小限制

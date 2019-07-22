@@ -1,4 +1,4 @@
-package me.stonerivers.middle;
+package me.stonerivers.leetcode.middle;
 
 import java.util.HashMap;
 
